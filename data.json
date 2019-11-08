@@ -1,0 +1,18 @@
+{
+    "paths": [
+        {
+            "animation": "//android.widget.TextView[@index='1']",
+            "Hide-Show Animations": "//android.widget.TextView[@index='6']",
+            "String3": "//android.widget.LinearLayout",
+            "Button0": "//android.widget.Button[@text='0']",
+            "Button1": "//android.widget.Button[@text='1']",
+            "Button2": "//android.widget.Button[@text='2']",
+            "Button3": "//android.widget.Button[@text='3']",
+            "AddNewButton": "com.example.android.apis:id/addNewButton",
+            "App": "//android.widget.TextView[@index='2']",
+            "ActionBar": "android:id/text1",
+            "DisplayOptions": "//android.widget.TextView[@index='5']",
+            "DisplayShowTitle": "com.example.android.apis:id/toggle_show_title"
+        }
+    ]
+}
